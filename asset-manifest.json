@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Ajaykumar5757/creating-student-edu-tracker-using-react/static/css/main.b075c252.css",
-    "main.js": "/Ajaykumar5757/creating-student-edu-tracker-using-react/static/js/main.7d18b56d.js",
-    "static/media/logo-college.png": "/Ajaykumar5757/creating-student-edu-tracker-using-react/static/media/logo-college.c18bb7f6022f62374604.png",
-    "index.html": "/Ajaykumar5757/creating-student-edu-tracker-using-react/index.html",
-    "main.b075c252.css.map": "/Ajaykumar5757/creating-student-edu-tracker-using-react/static/css/main.b075c252.css.map",
-    "main.7d18b56d.js.map": "/Ajaykumar5757/creating-student-edu-tracker-using-react/static/js/main.7d18b56d.js.map"
+    "main.css": "/creating-student-edu-tracker-using-react/static/css/main.b075c252.css",
+    "main.js": "/creating-student-edu-tracker-using-react/static/js/main.c5239ef5.js",
+    "static/media/logo-college.png": "/creating-student-edu-tracker-using-react/static/media/logo-college.c18bb7f6022f62374604.png",
+    "index.html": "/creating-student-edu-tracker-using-react/index.html",
+    "main.b075c252.css.map": "/creating-student-edu-tracker-using-react/static/css/main.b075c252.css.map",
+    "main.c5239ef5.js.map": "/creating-student-edu-tracker-using-react/static/js/main.c5239ef5.js.map"
   },
   "entrypoints": [
     "static/css/main.b075c252.css",
-    "static/js/main.7d18b56d.js"
+    "static/js/main.c5239ef5.js"
   ]
 }
